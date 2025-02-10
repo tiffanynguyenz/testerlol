@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+
+p {
+    margin:0;
+}
+
+#main {
+    color:palevioletred;
+    background-color:black;
+}
+
+.A{
+    padding: 0%;
+    background-color: rosybrown;
+}
